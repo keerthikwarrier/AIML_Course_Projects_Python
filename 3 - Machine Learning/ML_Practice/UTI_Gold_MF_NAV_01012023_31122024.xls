@@ -1,0 +1,3334 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40">
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="ProgId" content="Excel.Sheet">
+  <meta name="Generator" content="WPS Office ET">
+  <!--[if gte mso 9]>
+   <xml>
+    <o:DocumentProperties>
+     <o:Created>2025-04-23T10:49:34</o:Created>
+     <o:LastAuthor>Keert</o:LastAuthor>
+     <o:LastSaved>2025-04-23T10:54:15</o:LastSaved>
+    </o:DocumentProperties>
+    <o:CustomDocumentProperties>
+     <o:ICV dt:dt="string">BD6F050C132E40389B5FC907A9053595_12</o:ICV>
+     <o:KSOProductBuildVer dt:dt="string">1033-12.2.0.20326</o:KSOProductBuildVer>
+    </o:CustomDocumentProperties>
+   </xml>
+  <![endif]-->
+  <style>
+<!-- @page
+	{margin:1.00in 0.75in 1.00in 0.75in;
+	mso-header-margin:0.50in;
+	mso-footer-margin:0.50in;}
+tr
+	{mso-height-source:auto;
+	mso-ruby-visibility:none;}
+col
+	{mso-width-source:auto;
+	mso-ruby-visibility:none;}
+br
+	{mso-data-placement:same-cell;}
+.font0
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font1
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font2
+	{color:#0000FF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font3
+	{color:#800080;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font4
+	{color:#FF0000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font5
+	{color:#44546A;
+	font-size:18.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font6
+	{color:#7F7F7F;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font7
+	{color:#44546A;
+	font-size:15.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font8
+	{color:#44546A;
+	font-size:13.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font9
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font10
+	{color:#3F3F76;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font11
+	{color:#3F3F3F;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font12
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font13
+	{color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font14
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font15
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font16
+	{color:#006100;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font17
+	{color:#9C0006;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font18
+	{color:#9C6500;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font19
+	{color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font20
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.style0
+	{mso-number-format:"General";
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-pattern:auto;
+	mso-background-source:auto;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:"Normal";
+	mso-style-id:0;}
+.style16
+	{mso-number-format:"_ * \#\,\#\#0\.00_ \;_ * \\-\#\,\#\#0\.00_ \;_ * \0022-\0022??_ \;_ \@_ ";
+	mso-style-name:"Comma";
+	mso-style-id:3;}
+.style17
+	{mso-number-format:"_ \0022₹\0022* \#\,\#\#0\.00_ \;_ \0022₹\0022* \\-\#\,\#\#0\.00_ \;_ \0022₹\0022* \0022-\0022??_ \;_ \@_ ";
+	mso-style-name:"Currency";
+	mso-style-id:4;}
+.style18
+	{mso-number-format:"0%";
+	mso-style-name:"Percent";
+	mso-style-id:5;}
+.style19
+	{mso-number-format:"_ * \#\,\#\#0_ \;_ * \\-\#\,\#\#0_ \;_ * \0022-\0022_ \;_ \@_ ";
+	mso-style-name:"Comma [0]";
+	mso-style-id:6;}
+.style20
+	{mso-number-format:"_ \0022₹\0022* \#\,\#\#0_ \;_ \0022₹\0022* \\-\#\,\#\#0_ \;_ \0022₹\0022* \0022-\0022_ \;_ \@_ ";
+	mso-style-name:"Currency [0]";
+	mso-style-id:7;}
+.style21
+	{color:#0000FF;
+	font-size:11.0pt;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Calibri;
+	mso-style-name:"Hyperlink";
+	mso-style-id:8;}
+.style22
+	{color:#800080;
+	font-size:11.0pt;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Calibri;
+	mso-style-name:"Followed Hyperlink";
+	mso-style-id:9;}
+.style23
+	{mso-pattern:auto none;
+	background:#FFFFCC;
+	border:.5pt solid #B2B2B2;
+	mso-style-name:"Note";}
+.style24
+	{color:#FF0000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Warning Text";}
+.style25
+	{color:#44546A;
+	font-size:18.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"Title";}
+.style26
+	{color:#7F7F7F;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"CExplanatory Text";}
+.style27
+	{color:#44546A;
+	font-size:15.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-bottom:1.0pt solid #5B9BD5;
+	mso-style-name:"Heading 1";}
+.style28
+	{color:#44546A;
+	font-size:13.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-bottom:1.0pt solid #5B9BD5;
+	mso-style-name:"Heading 2";}
+.style29
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-bottom:1.0pt solid #ACCCEA;
+	mso-style-name:"Heading 3";}
+.style30
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"Heading 4";}
+.style31
+	{mso-pattern:auto none;
+	background:#FFCC99;
+	color:#3F3F76;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:.5pt solid #7F7F7F;
+	mso-style-name:"Input";}
+.style32
+	{mso-pattern:auto none;
+	background:#F2F2F2;
+	color:#3F3F3F;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:.5pt solid #3F3F3F;
+	mso-style-name:"Output";}
+.style33
+	{mso-pattern:auto none;
+	background:#F2F2F2;
+	color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:.5pt solid #7F7F7F;
+	mso-style-name:"Calculation";}
+.style34
+	{mso-pattern:auto none;
+	background:#A5A5A5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border:2.0pt double #3F3F3F;
+	mso-style-name:"Check Cell";}
+.style35
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border-bottom:2.0pt double #FF8001;
+	mso-style-name:"Linked Cell";}
+.style36
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	border-top:.5pt solid #5B9BD5;
+	border-bottom:2.0pt double #5B9BD5;
+	mso-style-name:"Total";}
+.style37
+	{mso-pattern:auto none;
+	background:#C6EFCE;
+	color:#006100;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Good";}
+.style38
+	{mso-pattern:auto none;
+	background:#FFC7CE;
+	color:#9C0006;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Bad";}
+.style39
+	{mso-pattern:auto none;
+	background:#FFEB9C;
+	color:#9C6500;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Neutral";}
+.style40
+	{mso-pattern:auto none;
+	background:#5B9BD5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Accent1";}
+.style41
+	{mso-pattern:auto none;
+	background:#DDEBF7;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - Accent1";}
+.style42
+	{mso-pattern:auto none;
+	background:#BDD7EE;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - Accent1";}
+.style43
+	{mso-pattern:auto none;
+	background:#9BC2E6;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - Accent1";}
+.style44
+	{mso-pattern:auto none;
+	background:#ED7D31;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Accent2";}
+.style45
+	{mso-pattern:auto none;
+	background:#FCE4D6;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - Accent2";}
+.style46
+	{mso-pattern:auto none;
+	background:#F8CBAD;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - Accent2";}
+.style47
+	{mso-pattern:auto none;
+	background:#F4B084;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - Accent2";}
+.style48
+	{mso-pattern:auto none;
+	background:#A5A5A5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Accent3";}
+.style49
+	{mso-pattern:auto none;
+	background:#EDEDED;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - Accent3";}
+.style50
+	{mso-pattern:auto none;
+	background:#DBDBDB;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - Accent3";}
+.style51
+	{mso-pattern:auto none;
+	background:#C9C9C9;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - Accent3";}
+.style52
+	{mso-pattern:auto none;
+	background:#FFC000;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Accent4";}
+.style53
+	{mso-pattern:auto none;
+	background:#FFF2CC;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - Accent4";}
+.style54
+	{mso-pattern:auto none;
+	background:#FFE699;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - Accent4";}
+.style55
+	{mso-pattern:auto none;
+	background:#FFD966;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - Accent4";}
+.style56
+	{mso-pattern:auto none;
+	background:#4472C4;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Accent5";}
+.style57
+	{mso-pattern:auto none;
+	background:#D9E1F2;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - Accent5";}
+.style58
+	{mso-pattern:auto none;
+	background:#B4C6E7;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - Accent5";}
+.style59
+	{mso-pattern:auto none;
+	background:#8EA9DB;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - Accent5";}
+.style60
+	{mso-pattern:auto none;
+	background:#70AD47;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"Accent6";}
+.style61
+	{mso-pattern:auto none;
+	background:#E2EFDA;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"20% - Accent6";}
+.style62
+	{mso-pattern:auto none;
+	background:#C6E0B4;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"40% - Accent6";}
+.style63
+	{mso-pattern:auto none;
+	background:#A9D08E;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-style-name:"60% - Accent6";}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	mso-number-format:"General";
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-pattern:auto;
+	mso-background-source:auto;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:none;
+	mso-protection:locked visible;}
+.xl65
+	{mso-style-parent:style0;
+	mso-pattern:auto none;
+	background:#F0F0F0;
+	mso-font-charset:134;}
+.xl66
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	font-weight:700;
+	mso-font-charset:134;}
+.xl67
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	mso-pattern:auto none;
+	background:#F0F0F0;
+	font-weight:700;
+	mso-font-charset:134;}
+.xl68
+	{mso-style-parent:style0;
+	white-space:normal;
+	mso-pattern:auto none;
+	background:#F0F0F0;
+	mso-font-charset:134;}
+.xl69
+	{mso-style-parent:style0;
+	mso-number-format:"dd/mm/yyyy";
+	mso-font-charset:134;}
+.xl70
+	{mso-style-parent:style0;
+	white-space:normal;
+	mso-font-charset:134;}
+ -->  </style>
+  <!--[if gte mso 9]>
+   <xml>
+    <x:ExcelWorkbook>
+     <x:ExcelWorksheets>
+      <x:ExcelWorksheet>
+       <x:Name>UTI_Gold_MF_NAV_01012023_311220</x:Name>
+       <x:WorksheetOptions>
+        <x:DefaultRowHeight>288</x:DefaultRowHeight>
+        <x:StandardWidth>2275</x:StandardWidth>
+        <x:Selected/>
+        <x:TopRowVisible>455</x:TopRowVisible>
+        <x:Panes>
+         <x:Pane>
+          <x:Number>3</x:Number>
+          <x:ActiveCol>3</x:ActiveCol>
+          <x:ActiveRow>5</x:ActiveRow>
+          <x:RangeSelection>D6:D495</x:RangeSelection>
+         </x:Pane>
+        </x:Panes>
+        <x:DoNotDisplayGridlines/>
+        <x:ProtectContents>False</x:ProtectContents>
+        <x:ProtectObjects>False</x:ProtectObjects>
+        <x:ProtectScenarios>False</x:ProtectScenarios>
+        <x:Print>
+         <x:ValidPrinterInfo/>
+        </x:Print>
+       </x:WorksheetOptions>
+      </x:ExcelWorksheet>
+     </x:ExcelWorksheets>
+     <x:ProtectStructure>False</x:ProtectStructure>
+     <x:ProtectWindows>False</x:ProtectWindows>
+     <x:WindowHeight>12240</x:WindowHeight>
+     <x:WindowWidth>28800</x:WindowWidth>
+    </x:ExcelWorkbook>
+   </xml>
+  <![endif]-->
+ </head>
+ <body link="blue" vlink="purple">
+  <table width="510.83" border="0" cellpadding="0" cellspacing="0" style='width:306.50pt;border-collapse:collapse;table-layout:fixed;'>
+   <col width="149.42" style='mso-width-source:userset;mso-width-alt:4371;'/>
+   <col width="162.83" style='mso-width-source:userset;mso-width-alt:4763;'/>
+   <col width="94.92" style='mso-width-source:userset;mso-width-alt:2776;'/>
+   <col width="103.67" style='mso-width-source:userset;mso-width-alt:3032;'/>
+   <tr height="24" style='height:14.40pt;mso-height-source:userset;mso-height-alt:288;'>
+    <td class="xl66" height="24" width="510.83" colspan="4" style='height:14.40pt;width:306.50pt;border-right:none;border-bottom:none;' x:str>Historical NAV for a period From 01-Jan-2023 to 31-Dec-2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;mso-height-source:userset;mso-height-alt:288;'>
+    <td class="xl67" height="24" colspan="4" style='height:14.40pt;border-right:none;border-bottom:none;' x:str>UTI Mutual Fund</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;mso-height-source:userset;mso-height-alt:288;'>
+    <td class="xl66" height="24" colspan="4" style='height:14.40pt;border-right:none;border-bottom:none;' x:str>UTI Gold ETF Fund of Fund</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;mso-height-source:userset;mso-height-alt:288;'>
+    <td class="xl66" height="24" colspan="4" style='height:14.40pt;border-right:none;border-bottom:none;' x:str>UTI Gold ETF Fund of Fund - Direct Plan - Growth Option</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl66" height="24" style='height:14.40pt;' x:str>Net Asset Value</td>
+    <td class="xl66" x:str>Repurchase Price</td>
+    <td class="xl66" x:str>Sale Price</td>
+    <td class="xl66" x:str>NAV date</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>10.8613</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="44928.">02/01/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>10.9525</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="44929.">03/01/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.0553</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="44930.">04/01/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>10.991</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="44931.">05/01/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>10.9449</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="44932.">06/01/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.0602</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="44935.">09/01/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.0145</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="44936.">10/01/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.06</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="44937.">11/01/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.0362</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="44938.">12/01/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.0823</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="44939.">13/01/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.1742</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="44942.">16/01/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.1741</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="44943.">17/01/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.151</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="44944.">18/01/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.1396</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="44945.">19/01/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.2192</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="44946.">20/01/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.2077</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="44949.">23/01/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.2648</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="44950.">24/01/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.2305</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="44951.">25/01/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.2078</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="44953.">27/01/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.2193</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="44956.">30/01/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.2079</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="44957.">31/01/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.334</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="44958.">01/02/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.5845</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="44959.">02/02/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.3559</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="44960.">03/02/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.2758</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="44963.">06/02/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.2529</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="44964.">07/02/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.3223</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="44965.">08/02/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.2994</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="44966.">09/02/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.1961</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="44967.">10/02/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.1846</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="44970.">13/02/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.2189</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="44971.">14/02/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.0934</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="44972.">15/02/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.082</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="44973.">16/02/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.0017</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="44974.">17/02/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.1273</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="44977.">20/02/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.0695</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="44978.">21/02/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.093</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="44979.">22/02/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.0243</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="44980.">23/02/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>10.99</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="44981.">24/02/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>10.9099</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="44984.">27/02/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>10.9102</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="44985.">28/02/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.0389</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="44986.">01/03/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.0389</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="44987.">02/03/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.016</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="44988.">03/03/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.0389</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="44991.">06/03/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>10.8903</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="44993.">08/03/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>10.856</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="44994.">09/03/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>10.9244</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="44995.">10/03/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.1972</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="44998.">13/03/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.3008</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="44999.">14/03/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.2094</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45000.">15/03/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.3814</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45001.">16/03/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.4159</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45002.">17/03/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.6686</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45005.">20/03/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.6112</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45006.">21/03/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.5064</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45007.">22/03/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.6112</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45008.">23/03/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.7015</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45009.">24/03/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.5874</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45012.">27/03/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.5532</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45013.">28/03/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.6786</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45014.">29/03/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.7242</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45016.">31/03/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.6899</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45019.">03/04/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.9421</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45021.">05/04/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.9189</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45022.">06/04/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.8391</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45026.">10/04/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.8734</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45027.">11/04/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.8848</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45028.">12/04/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.9528</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45029.">13/04/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.9185</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45033.">17/04/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.8842</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45034.">18/04/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.7815</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45035.">19/04/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.8728</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45036.">20/04/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.8271</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45037.">21/04/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.7928</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45040.">24/04/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.8269</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45041.">25/04/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.8384</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45042.">26/04/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.8498</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45043.">27/04/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.8156</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45044.">28/04/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.827</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45048.">02/05/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.9863</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45049.">03/05/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>12.0997</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45050.">04/05/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>12.0882</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45051.">05/05/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.9735</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45054.">08/05/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>12.0539</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45055.">09/05/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>12.0767</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45056.">10/05/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>12.0882</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45057.">11/05/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.985</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45058.">12/05/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>12.0194</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45061.">15/05/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.985</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45062.">16/05/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.9163</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45063.">17/05/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.9163</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45064.">18/05/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.8591</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45065.">19/05/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.9738</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45068.">22/05/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.8475</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45069.">23/05/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.9049</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45070.">24/05/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.859</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45071.">25/05/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.8361</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45072.">26/05/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.767</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45075.">29/05/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.7785</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45076.">30/05/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.7899</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45077.">31/05/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.7669</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45078.">01/06/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.8358</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45079.">02/06/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.6979</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45082.">05/06/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.7783</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45083.">06/06/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.7897</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45084.">07/06/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.7209</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45085.">08/06/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.7781</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45086.">09/06/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.7436</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45089.">12/06/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.7665</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45090.">13/06/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.6863</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45091.">14/06/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.5828</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45092.">15/06/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.6748</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45093.">16/06/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.6632</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45096.">19/06/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.6402</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45097.">20/06/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.5714</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45098.">21/06/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.491</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45099.">22/06/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.4334</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45100.">23/06/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.5137</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45103.">26/06/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.4562</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45104.">27/06/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.4332</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45105.">28/06/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.3527</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45107.">30/06/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.4217</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45110.">03/07/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.4678</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45111.">04/07/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.5367</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45112.">05/07/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.5022</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45113.">06/07/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.5366</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45114.">07/07/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.5135</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45117.">10/07/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.548</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45118.">11/07/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.548</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45119.">12/07/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.6512</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45120.">13/07/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.6168</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45121.">14/07/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.6053</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45124.">17/07/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.6397</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45125.">18/07/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.7316</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45126.">19/07/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.743</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45127.">20/07/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.6626</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45128.">21/07/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.628</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45131.">24/07/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.6625</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45132.">25/07/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.674</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45133.">26/07/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.7084</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45134.">27/07/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.6166</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45135.">28/07/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.6395</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45138.">31/07/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.6395</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45139.">01/08/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.651</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45140.">02/08/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.6165</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45141.">03/08/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.605</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45142.">04/08/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.6049</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45145.">07/08/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.6279</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45146.">08/08/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.6049</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45147.">09/08/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.559</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45148.">10/08/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.5475</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45149.">11/08/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.5589</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45152.">14/08/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.5359</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45154.">16/08/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.49</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45155.">17/08/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.4786</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45156.">18/08/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.4668</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45159.">21/08/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.4783</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45160.">22/08/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.4782</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45161.">23/08/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.5126</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45162.">24/08/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.5471</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45163.">25/08/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.5126</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45166.">28/08/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.5355</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45167.">29/08/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.6044</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45168.">30/08/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.6158</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45169.">31/08/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.6273</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45170.">01/09/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.6616</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45173.">04/09/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.6501</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45174.">05/09/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.6157</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45175.">06/09/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.5581</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45176.">07/09/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.6155</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45177.">08/09/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.5578</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45180.">11/09/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.5233</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45181.">12/09/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.5003</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45182.">13/09/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.4768</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45183.">14/09/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.5456</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45184.">15/09/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.603</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45187.">18/09/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.603</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45189.">20/09/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.557</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45190.">21/09/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.5799</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45191.">22/09/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.5799</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45194.">25/09/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.5106</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45195.">26/09/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.4761</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45196.">27/09/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.3611</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45198.">29/09/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.1773</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45202.">03/10/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.0969</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45203.">04/10/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.1083</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45204.">05/10/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.1083</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45205.">06/10/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.2461</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45208.">09/10/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.3035</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45209.">10/10/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.3264</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45210.">11/10/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.4063</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45211.">12/10/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.4406</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45212.">13/10/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.5437</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45215.">16/10/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.6123</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45216.">17/10/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.6811</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45217.">18/10/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.7497</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45218.">19/10/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.8412</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45219.">20/10/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.8755</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45222.">23/10/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.8526</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45224.">25/10/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.9327</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45225.">26/10/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.9096</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45226.">27/10/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.9784</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45229.">30/10/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.9899</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45230.">31/10/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.8981</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45231.">01/11/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.921</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45232.">02/11/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.9325</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45233.">03/11/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.9553</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45236.">06/11/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.8634</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45237.">07/11/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.8519</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45238.">08/11/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.7371</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45239.">09/11/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.829</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45240.">10/11/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.7257</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45243.">13/11/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.8856</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45245.">15/11/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.8167</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45246.">16/11/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.9545</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45247.">17/11/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.9432</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45250.">20/11/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.9889</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45251.">21/11/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>12.0462</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45252.">22/11/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>12.0003</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45253.">23/11/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>12.0118</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45254.">24/11/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>12.0689</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45258.">28/11/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>12.2521</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45259.">29/11/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>12.275</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45260.">30/11/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>12.2749</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45261.">01/12/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>12.4127</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45264.">04/12/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>12.2288</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45265.">05/12/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>12.1713</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45266.">06/12/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>12.1942</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45267.">07/12/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>12.2286</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45268.">08/12/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>12.022</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45271.">11/12/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>11.9876</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45272.">12/12/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>11.9532</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45273.">13/12/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>12.1822</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45274.">14/12/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>12.1707</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45275.">15/12/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>12.1249</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45278.">18/12/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>12.1249</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45279.">19/12/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>12.1822</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45280.">20/12/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>12.1822</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45281.">21/12/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>12.2511</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45282.">22/12/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>12.3084</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45286.">26/12/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>12.3428</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45287.">27/12/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>12.4001</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45288.">28/12/2023</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>12.3657</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45289.">29/12/2023</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>12.3999</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45292.">01/01/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>12.4228</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45293.">02/01/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>12.3427</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45294.">03/01/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>12.3084</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45295.">04/01/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>12.2626</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45296.">05/01/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>12.1937</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45299.">08/01/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>12.228</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45300.">09/01/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>12.228</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45301.">10/01/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>12.1706</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45302.">11/01/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>12.2393</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45303.">12/01/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>12.2851</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45306.">15/01/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>12.2277</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45307.">16/01/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>12.1473</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45308.">17/01/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>12.1358</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45309.">18/01/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>12.1702</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45310.">19/01/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>12.2275</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45314.">23/01/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>12.1816</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45315.">24/01/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>12.1587</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45316.">25/01/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>12.2271</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45320.">29/01/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>12.2386</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45321.">30/01/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>12.2385</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45322.">31/01/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>12.2955</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45323.">01/02/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>12.3069</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45324.">02/02/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>12.1921</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45327.">05/02/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>12.2035</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45328.">06/02/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>12.2264</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45329.">07/02/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>12.2264</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45330.">08/02/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>12.2149</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45331.">09/02/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>12.1804</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45334.">12/02/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>12.1689</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45335.">13/02/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>12.0312</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45336.">14/02/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>12.0082</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45337.">15/02/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>12.077</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45338.">16/02/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>12.1341</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45341.">19/02/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>12.0997</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45342.">20/02/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>12.1227</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45343.">21/02/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>12.1456</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45344.">22/02/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>12.0882</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45345.">23/02/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>12.134</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45348.">26/02/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>12.1684</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45349.">27/02/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>12.111</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45350.">28/02/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>12.1684</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45351.">29/02/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>12.1913</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45352.">01/03/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>12.4322</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45355.">04/03/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>12.5811</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45356.">05/03/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>12.6383</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45357.">06/03/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>12.7642</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45358.">07/03/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>12.9355</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45362.">11/03/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>12.8788</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45363.">12/03/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>12.7756</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45364.">13/03/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>12.8445</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45365.">14/03/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>12.8101</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45366.">15/03/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>12.81</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45369.">18/03/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>12.8329</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45370.">19/03/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>12.8444</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45371.">20/03/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>13.0391</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45372.">21/03/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>12.89</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45373.">22/03/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>12.9587</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45377.">26/03/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>12.9702</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45378.">27/03/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>13.039</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45379.">28/03/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>13.0389</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45382.">31/03/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>13.4174</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45383.">01/04/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>13.4517</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45384.">02/04/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>13.5204</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45385.">03/04/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>13.6008</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45386.">04/04/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>13.5893</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45387.">05/04/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>13.8639</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45390.">08/04/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>13.9671</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45391.">09/04/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>13.99</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45392.">10/04/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.2815</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45394.">12/04/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.19</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45397.">15/04/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.2471</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45398.">16/04/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.3043</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45400.">18/04/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.3387</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45401.">19/04/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.2587</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45404.">22/04/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>13.9842</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45405.">23/04/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>13.9842</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45406.">24/04/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.0758</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45407.">25/04/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.2129</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45408.">26/04/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.1669</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45411.">29/04/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.1096</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45412.">30/04/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.0179</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45414.">02/05/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>13.949</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45415.">03/05/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>13.9948</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45418.">06/05/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.0062</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45419.">07/05/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>13.9833</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45420.">08/05/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>13.9947</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45421.">09/05/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.2926</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45422.">10/05/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.0859</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45425.">13/05/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.1088</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45426.">14/05/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.2923</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45427.">15/05/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.3838</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45428.">16/05/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.3264</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45429.">17/05/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.4869</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45433.">21/05/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.4755</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45434.">22/05/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.3954</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45435.">23/05/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.1093</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45436.">24/05/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.1319</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45439.">27/05/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.1319</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45440.">28/05/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.1434</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45441.">29/05/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.0744</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45442.">30/05/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.1431</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45443.">31/05/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.0284</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45446.">03/06/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.0857</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45447.">04/06/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.0284</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45448.">05/06/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.2229</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45449.">06/06/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.1312</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45450.">07/06/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>13.9244</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45453.">10/06/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>13.9587</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45454.">11/06/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.0272</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45455.">12/06/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.0272</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45456.">13/06/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.0157</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45457.">14/06/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>13.9812</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45461.">18/06/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.027</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45462.">19/06/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.1185</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45463.">20/06/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.1872</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45464.">21/06/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.0383</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45467.">24/06/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.0039</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45468.">25/06/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>13.9925</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45469.">26/06/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>13.9237</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45470.">27/06/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.0037</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45471.">28/06/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.0607</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45474.">01/07/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.0378</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45475.">02/07/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.1521</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45476.">03/07/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.1976</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45477.">04/07/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.2204</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45478.">05/07/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.266</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45481.">08/07/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.2316</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45482.">09/07/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.2544</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45483.">10/07/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.2772</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45484.">11/07/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.3228</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45485.">12/07/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.3569</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45488.">15/07/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.4479</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45489.">16/07/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.5506</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45491.">18/07/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.4588</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45492.">19/07/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.4358</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45495.">22/07/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>13.9382</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45496.">23/07/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>13.7918</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45497.">24/07/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.084</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45498.">25/07/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>13.9271</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45499.">26/07/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>13.7148</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45502.">29/07/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>13.6147</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45503.">30/07/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>13.5925</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45504.">31/07/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>13.6363</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45505.">01/08/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>13.8041</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45506.">02/08/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>13.6584</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45509.">05/08/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>13.7373</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45510.">06/08/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>13.5797</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45511.">07/08/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>13.4771</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45512.">08/08/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>13.5452</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45513.">09/08/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>13.681</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45516.">12/08/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>13.7379</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45517.">13/08/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>13.7835</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45518.">14/08/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>13.7604</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45520.">16/08/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>13.9773</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45523.">19/08/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.0344</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45524.">20/08/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.0115</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45525.">21/08/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>13.9886</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45526.">22/08/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>13.9428</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45527.">23/08/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.057</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45530.">26/08/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.0113</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45531.">27/08/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.0112</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45532.">28/08/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.034</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45533.">29/08/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.0682</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45534.">30/08/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>13.9993</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45537.">02/09/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>13.9878</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45538.">03/09/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>13.8852</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45539.">04/09/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>13.9883</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45540.">05/09/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>13.9882</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45541.">06/09/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>13.9422</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45544.">09/09/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>13.9536</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45545.">10/09/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.0452</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45546.">11/09/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.0451</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45547.">12/09/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.284</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45548.">13/09/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.3525</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45551.">16/09/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.3296</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45552.">17/09/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.3066</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45553.">18/09/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.3638</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45554.">19/09/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.4439</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45555.">20/09/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.5237</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45558.">23/09/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.6036</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45559.">24/09/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.7288</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45560.">25/09/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.7974</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45561.">26/09/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.7173</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45562.">27/09/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.7171</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45565.">30/09/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.7399</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45566.">01/10/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.7741</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45568.">03/10/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.8538</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45569.">04/10/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.7857</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45572.">07/10/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.6835</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45573.">08/10/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.5935</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45574.">09/10/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.5933</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45575.">10/10/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.7188</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45576.">11/10/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.8097</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45579.">14/10/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.7868</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45580.">15/10/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.9012</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45581.">16/10/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.9469</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45582.">17/10/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>15.0956</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45583.">18/10/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>15.2327</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45586.">21/10/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>15.2212</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45587.">22/10/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>15.3237</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45588.">23/10/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>15.2205</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45589.">24/10/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>15.1402</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45590.">25/10/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>15.2087</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45593.">28/10/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>15.3453</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45594.">29/10/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>15.471</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45595.">30/10/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>15.4253</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45596.">31/10/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>15.2997</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45600.">04/11/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>15.2885</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45601.">05/11/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>15.2085</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45602.">06/11/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.9357</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45603.">07/11/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>15.0604</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45604.">08/11/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.9347</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45607.">11/11/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.5927</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45608.">12/11/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.6269</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45609.">13/11/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.352</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45610.">14/11/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.5695</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45614.">18/11/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.73</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45615.">19/11/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.9357</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45617.">21/11/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>15.1072</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45618.">22/11/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.9136</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45621.">25/11/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.697</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45622.">26/11/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.8336</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45623.">27/11/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.8336</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45624.">28/11/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.9136</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45625.">29/11/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.7988</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45628.">02/12/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.8675</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45629.">03/12/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.833</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45630.">04/12/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.8673</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45631.">05/12/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.8557</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45632.">06/12/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.867</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45635.">09/12/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.9929</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45636.">10/12/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>15.073</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45637.">11/12/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>15.1874</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45638.">12/12/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.9931</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45639.">13/12/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.9471</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45642.">16/12/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.8785</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45643.">17/12/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.9241</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45644.">18/12/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.7981</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45645.">19/12/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.695</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45646.">20/12/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.832</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45649.">23/12/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.7623</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45650.">24/12/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.8195</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45652.">26/12/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.8653</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45653.">27/12/2024</td>
+   </tr>
+   <tr height="24" class="xl65" style='height:14.40pt;'>
+    <td class="xl68" height="24" align="right" style='height:14.40pt;' x:num>14.8192</td>
+    <td class="xl68" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45656.">30/12/2024</td>
+   </tr>
+   <tr height="24" style='height:14.40pt;'>
+    <td class="xl70" height="24" align="right" style='height:14.40pt;' x:num>14.8421</td>
+    <td class="xl70" colspan="2" style='mso-ignore:colspan;'></td>
+    <td class="xl69" align="right" x:num="45657.">31/12/2024</td>
+   </tr>
+   <![if supportMisalignedColumns]>
+    <tr width="0" style='display:none;'>
+     <td width="149" style='width:90;'></td>
+     <td width="163" style='width:98;'></td>
+     <td width="95" style='width:57;'></td>
+     <td width="104" style='width:62;'></td>
+    </tr>
+   <![endif]>
+  </table>
+ </body>
+</html>
